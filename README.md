@@ -1,0 +1,1 @@
+# lcsc_resistors
